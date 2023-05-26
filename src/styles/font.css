@@ -1,0 +1,8 @@
+
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/OutfitSemiBold.ttf"); font-family : "Outfit"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/StaatlichesRegular.ttf"); font-family : "Staatliches"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/SquadaOneRegular.ttf"); font-family : "Squada One"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OutfitRegular.ttf"); font-family : "Outfit"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/OutfitMedium.ttf"); font-family : "Outfit"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MulishRomanSemiBold.ttf"); font-family : "Mulish"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MulishRomanRegular.ttf"); font-family : "Mulish"; font-weight : 400;  }
